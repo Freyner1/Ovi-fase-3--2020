@@ -1,0 +1,30 @@
+body{
+    background-color: skyblue;
+    color:white;
+}
+nav, header, .contenedor, footer{
+    max-width: 90%;
+    margin: auto;
+}
+nav{
+    background-color: rgb(118, 165, 42);
+}
+header{
+    background-color: cyan;
+}
+.contenedor{
+    background-color: darkolivegreen;
+}
+.central{
+    background-color: gray;
+    display: inline-block;
+    max-width: 65%;
+}
+footer{
+    background-color: aqua;
+}
+aside{
+    background-color: violet;
+    display: inline-block;
+    max-width: 28%;
+}
