@@ -1,5 +1,5 @@
 body{
-    background-color: skyblue;
+    background-color: rgb(89, 61, 134)
     color:white;
 }
 nav, header, .contenedor, footer{
@@ -21,7 +21,7 @@ header{
     max-width: 65%;
 }
 footer{
-    background-color: aqua;
+    background-color: tomato;
 }
 aside{
     background-color: violet;
